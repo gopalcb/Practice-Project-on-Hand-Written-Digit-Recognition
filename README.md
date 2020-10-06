@@ -1,4 +1,4 @@
-# CNN: Digit Recognition
+
 
 The Digit Recognizer is a multi-class classification problem. The data files train.csv and test.csv contain 28*28 pixels gray scale images. We will approach the problem in six major steps:
 
