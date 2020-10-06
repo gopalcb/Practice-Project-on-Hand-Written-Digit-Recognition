@@ -227,3 +227,7 @@ plt.figure()
 plt.show()
 ```
 ![](images/__results___20_0.png)
+
+## References:
+
+http://neuralnetworksanddeeplearning.com
