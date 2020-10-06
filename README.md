@@ -63,7 +63,7 @@ plt.colorbar()
 plt.grid(False)
 plt.show()
 ```
-![](images/__results___5_0%20(1))
+![](images/__results___5_0.png)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
