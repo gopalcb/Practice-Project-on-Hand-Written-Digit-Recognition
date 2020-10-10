@@ -15,7 +15,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all nec
 
 ```bash
 pip install foobar
-```
+``` 
 
 ## DATASET IMPORT AND PRE-PROCESSING
 
