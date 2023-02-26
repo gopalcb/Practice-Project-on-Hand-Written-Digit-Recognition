@@ -6,7 +6,7 @@ The Digit Recognizer is a multi-class classification problem. The data files tra
 2. Designing CNN architecture
 3. Training the networks
 4. Predict on test dataset
-5. Plotting necessary diagrams
+5. Plotting necessary diagrams 
 6. Saving output
 
 ## PIP Install
